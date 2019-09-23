@@ -1,0 +1,23 @@
+#include <Wire.h>
+#include <LiquidCrystal_I2C.h> 
+LiquidCrystal_I2C lcd(0x27,16,2);  // set the LCD address to 0x27 for a 16 chars and 2 line display.  
+// If 0x27 doesn't work, try 0x3F.
+int poPin = 2;
+int ledPin = 13;
+int val = 0;
+
+void setup() {
+  pinMode(ledPin, OUTPUT);  // declare the ledPin as an OUTPUT
+  lcd.begin (16,2); // for 16 x 2 LCD module
+  lcd.init();
+  lcd.backlight();
+  lcd.setBacklight(HIGH);
+}
+
+void loop() {
+  val = analogRead(potPin);    // read the value from the sensor
+  digitalWrite(ledPin, HIGH);  // turn the ledPin on
+  delay(val);                  // stop the program for some time
+  digitalWrite(ledPin, LOW);   // turn the ledPin off
+  delay(val);                  // stop the program for some time
+}
