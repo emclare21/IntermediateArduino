@@ -4,6 +4,13 @@ Intermediate arduino assignments
 ## Attach Interrupt
 Using Photointerrupters w/out if statements
 
+### Description
+
+### Wiring
+
+### Invaluable information
+AKa what obstacles did you overcome, what tips would you give the reader, etc?
+
 ## FadeLED
 Made an LED Fade
 
