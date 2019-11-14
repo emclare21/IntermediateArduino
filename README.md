@@ -1,5 +1,5 @@
 # IntermediateArduino
-Intermediate arduino assignments
+Intermediate arduino assignments. This is coding, wiring, and any complications of each 
 
 ## Attach Interrupt
 ### Description
@@ -14,9 +14,10 @@ AKa what obstacles did you overcome, what tips would you give the reader, etc?
 
 ## FadeLED
 ### Description
-
+I made the brightness of a light fade high to low, and then low to high. 
 ### Wiring
-
+<img src="Media/LEDFade.PNG" width="200">
+* I got this from [Dr. Shields](https://github.com/DoctorShields/CircuitPython)
 ### Invaluable information
 Made an LED Fade
 
@@ -27,8 +28,8 @@ Made an LED Fade
 ### Description
 
 ### Wiring
-<img src = "Media/HelloLCD1.JPG" width="200">
-<img src = "Media/HelloLCD2.JPG" width="200">
+<img src = "Media/LCDBack1.JPG" width="200">
+<img src = "Media/LCDBack2.JPG" width="200">
 ### Invaluable information
 Prints "Hello World" and counts the seconds since it was run on an LCD monitor
 
@@ -67,7 +68,7 @@ Makes a motor go faster or slower with a potentiometer.
 ### Description
 
 ### Wiring
-
+<img src="media/photinterupterpic.png" width="300px" />
 ### Invaluable information
 Made a photointerrupter work w/ if statements
 
