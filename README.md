@@ -27,7 +27,8 @@ Made an LED Fade
 ### Description
 
 ### Wiring
-
+<img src = "Media/HelloLCD1.JPG" width="200">
+<img src = "Media/HelloLCD2.JPG" width="200">
 ### Invaluable information
 Prints "Hello World" and counts the seconds since it was run on an LCD monitor
 
@@ -52,7 +53,8 @@ Simplifies the wiring of an LCD. It counts how many times a button is pressed an
 ### Description
 
 ### Wiring
-
+<img src = "Media/MotorControl1.JPG" width="200">
+<img src = "Media/MotorControl2.JPG" width="200">
 ### Invaluable information
 Makes a motor go faster or slower with a potentiometer.
 
@@ -76,7 +78,7 @@ Made a photointerrupter work w/ if statements
 ### Description
 
 ### Wiring
-<img src = "media/Potentiometer.jpg" width="200">
+<img src = "Media/Potentiometer.JPG" width="200">
 ### Invaluable information
 An LCD prints the inputs on a potentiometer.
 
