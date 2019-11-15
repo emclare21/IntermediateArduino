@@ -28,10 +28,10 @@ I made the brightness of a light fade high to low, and then low to high.
 ### Description
 The goal was to use an LCD instead of a serial monitor. On one line in the LCD, I printed "Hello World", and on the second line, the LCD counted up the seconds since it started running. 
 ### Wiring
-<img src="Media/LCD.jpg" width="300px" />
+<img src="Media/LCD.JPG" width="200px" />
 * Credit goes to [Lukas Miller](https://github.com/lmiller87/CircuitPython)
 ### Problems and Solutions
-The main problems I had was wiring everything up. 
+The main problems I had was wiring everything up. There were a lot of moving parts when it came to 
 
 
 
