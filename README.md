@@ -8,19 +8,19 @@ I used Photointerrupters w/out if statements. Instead, I used an on function and
 ### Wiring
 
 ### Problems and Solutions
-AKa what obstacles did you overcome, what tips would you give the reader, etc?
-
+My biggest issue was figuring out how the AttachInterrupt command worked. I figured out that it is specific to Photointerrupters, and 
 
 
 ## FadeLED
 ### Description
 I made the brightness of a light fade high to low, and then low to high. 
 ### Wiring
-<img src="Media/LEDFade.PNG" width="200">
-* I got this from [Dr. Shields](https://github.com/DoctorShields/CircuitPython)
+
+![Alt Text](https://github.com/emclare21/IntermediateArduino/blob/master/Media/LEDFade.png)
+
+* Credit goes to [Dr. Shields](https://github.com/DoctorShields/CircuitPython)
+
 ### Problems and Solutions
-
-
 
 
 
@@ -28,10 +28,10 @@ I made the brightness of a light fade high to low, and then low to high.
 ### Description
 The goal was to use an LCD instead of a serial monitor. On one line in the LCD, I printed "Hello World", and on the second line, the LCD counted up the seconds since it started running. 
 ### Wiring
-<img src="Media/LCD.JPG" width="200px" />
+![Alt Text](https://github.com/emclare21/IntermediateArduino/blob/master/Media/LCD.jpg)
 * Credit goes to [Lukas Miller](https://github.com/lmiller87/CircuitPython)
 ### Problems and Solutions
-The main problems I had was wiring everything up. There were a lot of moving parts when it came to 
+The main problems I had was wiring everything up. There were a lot of wires to keep track of and the board got quite crowded fast. Follow the diagram exactly as it looks like, and 
 
 
 
@@ -68,7 +68,7 @@ Makes a motor go faster or slower with a potentiometer.
 ### Description
 
 ### Wiring
-<img src="media/photinterupterpic.png" width="300px" />
+![Alt Text](https://github.com/emclare21/IntermediateArduino/blob/master/Media/Potentiometer.JPG)
 ### Problems and Solutions
 Made a photointerrupter work w/ if statements
 
