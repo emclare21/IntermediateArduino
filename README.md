@@ -50,7 +50,6 @@ Simplifies the wiring of an LCD. It counts how many times a button is pressed an
 
 
 
-
 ## Motor Control
 ### Description
 
