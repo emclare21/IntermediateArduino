@@ -8,12 +8,12 @@ I used Photointerrupters w/out if statements. Instead, I used an on function and
 ### Wiring
 
 ### Problems and Solutions
-My biggest issue was figuring out how the AttachInterrupt command worked. I figured out that it is specific to Photointerrupters, and 
+My biggest issue was figuring out how the AttachInterrupt command worked. I figured out that it is specific to Photointerrupters, and that it reads if there is something interrupting the code.
 
 
 ## FadeLED
 ### Description
-I made the brightness of a light fade high to low, and then low to high. 
+I made the brightness of a light fade high to low, and then low to high. An LED goes to a value of 255, so I made the value of the LED go up by 5 until it reaches 255, which then makes the number go down.
 ### Wiring
 
 ![Alt Text](https://github.com/emclare21/IntermediateArduino/blob/master/Media/LEDFade.png)
