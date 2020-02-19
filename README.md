@@ -9,7 +9,7 @@ I made the brightness of a light fade high to low, and then low to high. An LED 
 ![Alt Text](https://github.com/emclare21/IntermediateArduino/blob/master/Media/LEDFade.png)
 * Credit goes to [Dr. Shields](https://github.com/DoctorShields/CircuitPython)
 ### Problems and Solutions
-My problems stemmed from trying to remember how to work and LED. It was the begining of the year, and I was trying to remember how to wire up the LED to make it work
+My problems stemmed from trying to remember how to work and LED. It was the begining of the year, and I was trying to remember how to wire up the LED to make it work. Here is a link to LED Blink with a picture of how to wire it. https://www.arduino.cc/en/tutorial/blink
 
 
 ## HelloLCD
@@ -19,7 +19,7 @@ The goal was to use an LCD instead of a serial monitor. On one line in the LCD, 
 ![Alt Text](https://github.com/emclare21/IntermediateArduino/blob/master/Media/LCD.jpg)
 * Credit goes to [Lukas Miller](https://github.com/lmiller87/CircuitPython)
 ### Problems and Solutions
-The main problems I had was wiring everything up. There were a lot of wires to keep track of and the board got quite crowded fast. Follow the diagram exactly as it looks like, and 
+The main problems I had was wiring everything up. There were a lot of wires to keep track of and the board got quite crowded fast. The key is to follow the diagram exactly as it looks like. https://www.arduino.cc/en/Tutorial/HelloWorld
 
 
 
@@ -32,7 +32,7 @@ Simplifies the wiring of an LCD. It counts how many times a button is pressed an
 <img src = "Media/LCDBack1.JPG" width="200">
 <img src = "Media/LCDBack2.JPG" width="200">
 ### Problems and Solutions
-The only problems were finding a backpack that fit into the LCD. Make sure there is either a male backpack and a female LCD, or a female backpack and a male LCD. LCD backpack is a lot easier that normal LCD though.
+The only problems were finding a backpack that fit into the LCD. Make sure there is either a male backpack and a female LCD, or a female backpack and a male LCD. LCD backpack is a lot easier than the normal LCD though. I liked that there were less wires. 
 
 
 
